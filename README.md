@@ -1,14 +1,12 @@
 ### Hi there, I'm Pedro Silva! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 📚 Currently taking my MSc in Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br /> <br />
-🐶 I love dogs and I recently adopted one. <br /><br />
+🐶 I **love dogs** and I recently adopted one (her name is Lira). <br /><br />
 🧒 I'm currently volunteering in a studying and activity center where I help children to study and play with them <br/><br />
-👀 I'm interested in:
+👀 My main Compsci interests are:
 - 🌐 Distributed Systems
-- 💻 Systems Design
-- 🖥️ 🖱️ Operating Systems 
-- 🚗 Embedded Systems
-- 👩‍💻 Compilers and Programming Language Design
+- 💻 🛠 Systems Design and Implementation
+-  ℹ️ 🌎 📃 Information Systems
 <br />
 <br />
 <a href="https://www.linkedin.com/in/pedro-silva-735312251/">
