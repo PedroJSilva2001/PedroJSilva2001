@@ -10,7 +10,6 @@
 - 💻🛠👩‍💻 Systems Design and Implementation
 - 🗃️🌍📃 Information Systems
 
-💩 If you came here to find my gh stats or my tech stacks, then don't bother. It's horrible personal branding when 90% of developers use the same technologies and programming languages. My current favourite programming language is Go, least is Java. That's all you need to know.
 <br />
 <br />
 <br />
