@@ -1,20 +1,20 @@
 ### Hi there, I'm Pedro Silva! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 📚 Currently taking my MSc in Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br /> <br />
-🐶 I **love dogs** and I recently adopted one (her name is Lira). I want to have a Pitbull, a Rotweiller, a Dobermann and a Cane Corso in the future. <br /><br />
-🧒 I'm currently **volunteering** in a studying and activity center where I help children to study and play with them <br/><br />
+🐶 I **love dogs** <br /><br />
+📖 One of my missions is to collect as much knowledge as possible and share it. I'm a big believer in **Pedagogy** <br/><br />
 🏋️‍♂️ I **love fitness** and going to the gym.<br/><br />
 🎥 I'm a **movie connoisseur**. <br/><br />
 👀 My main Compsci interests are:
-- 🌐📳☁️ Distributed Systems
-- 💻🛠👩‍💻 Systems/Software Systems Architecture and Design
-- 🗃️🌍📃 Information Systems
-- 🔐🛡️💳 Information Security
+- 🌐 📳 ☁  Distributed Systems
+- 🏛️ 🛠 👩‍💻 Systems/Software Systems Architecture and Design
+- 💻 📜 🧰 Programming Languages, Tooling, Design, and Implementation
+- 🔐 🛡️ 💳 Cryptography
 
 <br />
 <br />
 <br />
-<a href="https://www.linkedin.com/in/pedro-silva-735312251/">
+<a href="https://www.linkedin.com/in/pedrosilva322/">
   <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
 </a>
 <a href="mailto:pedro.jsilva322@gmail.com">
