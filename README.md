@@ -7,7 +7,7 @@
 🎥 I'm a **movie connoisseur**. <br/><br />
 👀 My main Compsci interests are:
 - 🌐 📳 ☁  Distributed Systems
-- 🏛️ 🛠 👩‍💻 Systems/Software Systems Architecture and Design
+- 🏛️ 🛠 👩‍💻 Software Systems Architecture and Design
 - 💻 📜 🧰 Programming Languages, Tooling, Design, and Implementation
 - 🔐 🛡️ 💳 Cryptography
 
